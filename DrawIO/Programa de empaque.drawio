@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T20:09:19.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Rykvaawzbo8RLOA-BKJn" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T20:09:25.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qFRwOz_Gm8-DE4BzYOoJ" version="21.1.8" type="github">
   <diagram name="Página-1" id="E5eDrzF1vHOTVu4U-9JP">
     <mxGraphModel dx="1400" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -87,12 +87,6 @@
         </mxCell>
         <mxCell id="TqmmsIACruIbI4F4TJP2-28" value="Agencia Aduanal&lt;br style=&quot;font-size: 16px;&quot;&gt;(Agency Trade)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="680" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TqmmsIACruIbI4F4TJP2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;fontSize=16;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="80" as="sourcePoint" />
-            <mxPoint x="345.0666666666666" y="140" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TqmmsIACruIbI4F4TJP2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;fontSize=16;" parent="1" source="TqmmsIACruIbI4F4TJP2-39" target="TqmmsIACruIbI4F4TJP2-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
